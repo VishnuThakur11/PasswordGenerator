@@ -1,0 +1,78 @@
+.main{
+  font-size: 30px;
+  text-align: center;
+  font-weight: 400;
+  margin-top: 200px;
+}
+.input{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.inputBox{
+  margin-top: 10px;
+  width: 300px;
+  height: 30px;
+}
+#input1{
+  height: 28px;
+  width: 300px;
+  font-size: medium;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ 
+}
+#input2{
+  height: 28px;
+  width: 400px;
+}
+button{
+  height: 35px;
+  width: 100px;
+  margin-left: 8px;
+  margin-top: 15px;
+}
+.container{
+  border: 1px solid black;
+  border-radius: 10px;
+  margin-top: 100px;
+  margin-left: 600px;
+  padding: 20px;
+  width: 400px;
+  height: 500px;
+  align-items: center;
+  background-color: antiquewhite;
+  
+  box-shadow: 10px 7px 10px rgb(77, 75, 75);
+}
+#lengthText{
+  font-size: 20px;
+  margin-left: 130px;
+  color: red;
+  font-weight: 200;
+  width: 150px;
+  border: 1px solid black;
+  border-radius: 10px;
+  text-align: center;
+}
+#checkbox{
+  margin-top: 10px;
+  color: red;
+  font-size: 20px;
+  /* border: 1px solid black; */
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 150px;
+  margin-left: 130px;
+  font-weight: 200;
+  border-radius: 10px;
+}
+#checkbox input{
+  margin-left: 10px;
+}
+#reload{
+  background: none;
+  border: none;
+  height: 25px;
+}
